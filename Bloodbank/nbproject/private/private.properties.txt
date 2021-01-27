@@ -1,0 +1,2 @@
+index.file=index.php
+url=http://localhost/_Bloodbank Version 0.1/
